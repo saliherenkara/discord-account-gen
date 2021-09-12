@@ -1,0 +1,958 @@
+[2021-08-12 17:45:20] Configuration loaded! Starting workers!
+[2021-08-12 17:45:23] Captcha Balance: 0.3556
+[2021-08-12 17:45:23] Starting 70 threads
+[2021-08-12 17:45:45] Fail
+[2021-08-12 17:45:52] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 17:45:52] 286
+[2021-08-12 17:45:53] Successfully made a account.
+[2021-08-12 17:46:28] Configuration loaded! Starting workers!
+[2021-08-12 17:46:30] Captcha Balance: 0.35
+[2021-08-12 17:46:31] Starting 70 threads
+[2021-08-12 17:46:37] Fail
+[2021-08-12 17:46:54] Fail
+[2021-08-12 17:46:55] Fail
+[2021-08-12 17:47:02] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 17:47:02] 286
+[2021-08-12 17:47:02] Successfully made a account.
+[2021-08-12 17:47:22] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 17:47:22] 286
+[2021-08-12 17:47:23] Successfully made a account.
+[2021-08-12 17:47:37] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 17:47:37] 286
+[2021-08-12 17:47:37] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 17:47:38] Successfully made a account.
+[2021-08-12 17:47:38] 286
+[2021-08-12 17:47:39] Successfully made a account.
+[2021-08-12 17:47:39] Fail
+[2021-08-12 17:47:43] Fail
+[2021-08-12 17:47:50] Fail
+[2021-08-12 17:47:56] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 17:47:56] 286
+[2021-08-12 17:47:57] Successfully made a account.
+[2021-08-12 17:48:02] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 17:48:02] 286
+[2021-08-12 17:48:03] Successfully made a account.
+[2021-08-12 17:48:06] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 17:48:06] 286
+[2021-08-12 17:48:07] Successfully made a account.
+[2021-08-12 17:48:14] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 17:48:14] 286
+[2021-08-12 17:48:15] Successfully made a account.
+[2021-08-12 17:48:18] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 17:48:18] 286
+[2021-08-12 17:48:19] Successfully made a account.
+[2021-08-12 17:48:21] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 17:48:21] 286
+[2021-08-12 17:48:22] Successfully made a account.
+[2021-08-12 17:48:43] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 17:48:43] 286
+[2021-08-12 17:48:47] Successfully made a account.
+[2021-08-12 17:49:03] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 17:49:03] 286
+[2021-08-12 17:49:04] Successfully made a account.
+[2021-08-12 17:49:07] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 17:49:07] 286
+[2021-08-12 17:49:08] Successfully made a account.
+[2021-08-12 17:49:14] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 17:49:14] 286
+[2021-08-12 17:49:15] Successfully made a account.
+[2021-08-12 17:49:18] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 17:49:18] 286
+[2021-08-12 17:49:19] Successfully made a account.
+[2021-08-12 17:49:27] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 17:49:27] 286
+[2021-08-12 17:49:28] Successfully made a account.
+[2021-08-12 17:49:30] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 17:49:30] 286
+[2021-08-12 17:49:31] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 17:49:31] 286
+[2021-08-12 17:49:31] Successfully made a account.
+[2021-08-12 17:49:32] Successfully made a account.
+[2021-08-12 17:49:36] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 17:49:36] 286
+[2021-08-12 17:49:37] Successfully made a account.
+[2021-08-12 17:49:39] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 17:49:39] 286
+[2021-08-12 17:49:40] Successfully made a account.
+[2021-08-12 17:49:40] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 17:49:40] 286
+[2021-08-12 17:49:41] Successfully made a account.
+[2021-08-12 17:49:43] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 17:49:43] 286
+[2021-08-12 17:49:44] Successfully made a account.
+[2021-08-12 17:49:46] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 17:49:46] 286
+[2021-08-12 17:49:47] Successfully made a account.
+[2021-08-12 17:50:08] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 17:50:08] 286
+[2021-08-12 17:50:09] Successfully made a account.
+[2021-08-12 17:50:17] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 17:50:17] 286
+[2021-08-12 17:50:17] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 17:50:17] 286
+[2021-08-12 17:50:17] Successfully made a account.
+[2021-08-12 17:50:18] Successfully made a account.
+[2021-08-12 17:50:39] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 17:50:39] 286
+[2021-08-12 17:50:40] Successfully made a account.
+[2021-08-12 17:50:53] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 17:50:53] 286
+[2021-08-12 17:50:54] Successfully made a account.
+[2021-08-12 17:50:57] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 17:50:57] 286
+[2021-08-12 18:24:56] Configuration loaded! Starting workers!
+[2021-08-12 18:27:40] Configuration loaded! Starting workers!
+[2021-08-12 18:27:43] Captcha Balance: 0.3108
+[2021-08-12 18:27:43] Starting 70 threads
+[2021-08-12 18:29:30] Configuration loaded! Starting workers!
+[2021-08-12 18:29:32] Captcha Balance: 0.3108
+[2021-08-12 18:29:32] Starting 70 threads
+[2021-08-12 18:29:56] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:29:56] 286
+[2021-08-12 18:29:57] Successfully made a account.
+[2021-08-12 18:30:12] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:30:12] 286
+[2021-08-12 18:30:12] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:30:12] 286
+[2021-08-12 18:30:13] Successfully made a account.
+[2021-08-12 18:30:13] Successfully made a account.
+[2021-08-12 18:30:54] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:30:54] 286
+[2021-08-12 18:30:55] Successfully made a account.
+[2021-08-12 18:31:13] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:31:13] 286
+[2021-08-12 18:31:13] Successfully made a account.
+[2021-08-12 18:31:38] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:31:38] 286
+[2021-08-12 18:31:38] Successfully made a account.
+[2021-08-12 18:31:39] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:31:39] 286
+[2021-08-12 18:31:40] Successfully made a account.
+[2021-08-12 18:31:49] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:31:49] 286
+[2021-08-12 18:31:49] Successfully made a account.
+[2021-08-12 18:31:50] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:31:50] 286
+[2021-08-12 18:31:51] Successfully made a account.
+[2021-08-12 18:31:52] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:31:52] 286
+[2021-08-12 18:31:53] Successfully made a account.
+[2021-08-12 18:32:11] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:32:11] 286
+[2021-08-12 18:32:11] Successfully made a account.
+[2021-08-12 18:32:55] Fail
+[2021-08-12 18:32:57] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:32:57] 286
+[2021-08-12 18:32:57] Successfully made a account.
+[2021-08-12 18:33:07] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:33:07] 286
+[2021-08-12 18:33:08] Successfully made a account.
+[2021-08-12 18:33:34] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:33:34] 286
+[2021-08-12 18:33:35] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:33:35] 286
+[2021-08-12 18:33:35] Successfully made a account.
+[2021-08-12 18:33:35] Successfully made a account.
+[2021-08-12 18:33:43] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:33:43] 286
+[2021-08-12 18:33:44] Successfully made a account.
+[2021-08-12 18:33:45] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:33:45] 286
+[2021-08-12 18:33:46] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:33:46] Successfully made a account.
+[2021-08-12 18:33:46] 286
+[2021-08-12 18:33:46] Successfully made a account.
+[2021-08-12 18:33:47] Fail
+[2021-08-12 18:33:48] Fail
+[2021-08-12 18:33:49] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:33:49] 286
+[2021-08-12 18:33:50] Successfully made a account.
+[2021-08-12 18:33:57] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:33:57] 286
+[2021-08-12 18:33:57] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:33:57] 286
+[2021-08-12 18:33:58] Successfully made a account.
+[2021-08-12 18:33:58] Successfully made a account.
+[2021-08-12 18:34:20] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:34:20] 286
+[2021-08-12 18:34:20] Successfully made a account.
+[2021-08-12 18:34:20] Fail
+[2021-08-12 18:34:35] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:34:35] 286
+[2021-08-12 18:34:36] Successfully made a account.
+[2021-08-12 18:34:54] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:34:54] 286
+[2021-08-12 18:34:55] Successfully made a account.
+[2021-08-12 18:35:03] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:35:03] 286
+[2021-08-12 18:35:04] Successfully made a account.
+[2021-08-12 18:35:07] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:35:07] 286
+[2021-08-12 18:35:07] Successfully made a account.
+[2021-08-12 18:35:11] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:35:11] 286
+[2021-08-12 18:35:11] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:35:11] 286
+[2021-08-12 18:35:12] Successfully made a account.
+[2021-08-12 18:35:12] Successfully made a account.
+[2021-08-12 18:35:19] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:35:19] 286
+[2021-08-12 18:35:19] Successfully made a account.
+[2021-08-12 18:35:25] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:35:25] 286
+[2021-08-12 18:35:25] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:35:25] 286
+[2021-08-12 18:35:25] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:35:25] 286
+[2021-08-12 18:35:26] Successfully made a account.
+[2021-08-12 18:35:26] Successfully made a account.
+[2021-08-12 18:35:26] Successfully made a account.
+[2021-08-12 18:35:29] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:35:29] 286
+[2021-08-12 18:35:30] Successfully made a account.
+[2021-08-12 18:35:32] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:35:33] 286
+[2021-08-12 18:35:33] Successfully made a account.
+[2021-08-12 18:35:34] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:35:34] 286
+[2021-08-12 18:35:35] Successfully made a account.
+[2021-08-12 18:35:41] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:35:41] 286
+[2021-08-12 18:35:42] Successfully made a account.
+[2021-08-12 18:35:43] Fail
+[2021-08-12 18:35:52] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:35:52] 286
+[2021-08-12 18:35:53] Successfully made a account.
+[2021-08-12 18:36:07] Fail
+[2021-08-12 18:36:41] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:36:41] 286
+[2021-08-12 18:36:41] Successfully made a account.
+[2021-08-12 18:36:43] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:36:43] 286
+[2021-08-12 18:36:44] Successfully made a account.
+[2021-08-12 18:36:55] Fail
+[2021-08-12 18:36:58] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:36:58] 286
+[2021-08-12 18:36:59] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:36:59] 286
+[2021-08-12 18:36:59] Successfully made a account.
+[2021-08-12 18:36:59] Successfully made a account.
+[2021-08-12 18:37:03] Fail
+[2021-08-12 18:37:04] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:37:04] 286
+[2021-08-12 18:37:04] Successfully made a account.
+[2021-08-12 18:37:11] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:37:11] 286
+[2021-08-12 18:37:11] Successfully made a account.
+[2021-08-12 18:37:12] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:37:12] 286
+[2021-08-12 18:37:13] Successfully made a account.
+[2021-08-12 18:37:19] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:37:19] 286
+[2021-08-12 18:37:19] Successfully made a account.
+[2021-08-12 18:37:23] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:37:23] 286
+[2021-08-12 18:37:24] Successfully made a account.
+[2021-08-12 18:37:29] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:37:29] 286
+[2021-08-12 18:37:30] Successfully made a account.
+[2021-08-12 18:37:33] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:37:33] 286
+[2021-08-12 18:37:33] Successfully made a account.
+[2021-08-12 18:37:33] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:37:33] 286
+[2021-08-12 18:37:34] Successfully made a account.
+[2021-08-12 18:37:36] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:37:36] 286
+[2021-08-12 18:37:37] Successfully made a account.
+[2021-08-12 18:37:39] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:37:39] 286
+[2021-08-12 18:37:40] Successfully made a account.
+[2021-08-12 18:37:43] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:37:43] 286
+[2021-08-12 18:37:43] Fail
+[2021-08-12 18:37:43] Successfully made a account.
+[2021-08-12 18:37:49] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:37:49] 286
+[2021-08-12 18:37:49] Successfully made a account.
+[2021-08-12 18:37:51] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:37:51] 286
+[2021-08-12 18:37:51] Successfully made a account.
+[2021-08-12 18:38:01] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:38:01] 286
+[2021-08-12 18:38:02] Successfully made a account.
+[2021-08-12 18:38:11] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:38:11] 286
+[2021-08-12 18:38:11] Successfully made a account.
+[2021-08-12 18:38:31] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:38:31] 286
+[2021-08-12 18:38:31] Successfully made a account.
+[2021-08-12 18:38:33] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:38:33] 286
+[2021-08-12 18:38:36] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:38:36] 286
+[2021-08-12 18:38:36] Successfully made a account.
+[2021-08-12 18:38:37] Successfully made a account.
+[2021-08-12 18:38:37] Fail
+[2021-08-12 18:38:40] Fail
+[2021-08-12 18:38:40] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:38:40] 286
+[2021-08-12 18:38:40] Successfully made a account.
+[2021-08-12 18:38:43] Fail
+[2021-08-12 18:38:43] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:38:43] 286
+[2021-08-12 18:38:44] Successfully made a account.
+[2021-08-12 18:38:45] Fail
+[2021-08-12 18:38:45] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:38:45] 286
+[2021-08-12 18:38:46] Successfully made a account.
+[2021-08-12 18:38:59] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:39:00] 286
+[2021-08-12 18:39:00] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:39:00] 286
+[2021-08-12 18:39:00] Successfully made a account.
+[2021-08-12 18:39:01] Successfully made a account.
+[2021-08-12 18:39:02] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:39:02] 286
+[2021-08-12 18:39:03] Successfully made a account.
+[2021-08-12 18:39:03] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:39:03] 286
+[2021-08-12 18:39:05] Successfully made a account.
+[2021-08-12 18:39:05] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:39:05] 286
+[2021-08-12 18:39:06] Successfully made a account.
+[2021-08-12 18:39:06] Fail
+[2021-08-12 18:39:13] Fail
+[2021-08-12 18:39:31] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:39:31] 286
+[2021-08-12 18:39:32] Successfully made a account.
+[2021-08-12 18:39:40] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:39:40] 286
+[2021-08-12 18:39:41] Successfully made a account.
+[2021-08-12 18:39:42] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:39:42] 286
+[2021-08-12 18:39:42] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:39:42] 286
+[2021-08-12 18:39:43] Successfully made a account.
+[2021-08-12 18:39:43] Successfully made a account.
+[2021-08-12 18:39:48] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:39:48] 286
+[2021-08-12 18:39:49] Successfully made a account.
+[2021-08-12 18:39:58] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:39:58] 286
+[2021-08-12 18:39:59] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:39:59] 286
+[2021-08-12 18:39:59] Successfully made a account.
+[2021-08-12 18:39:59] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:39:59] 286
+[2021-08-12 18:40:00] Successfully made a account.
+[2021-08-12 18:40:00] Successfully made a account.
+[2021-08-12 18:40:07] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:40:09] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:40:09] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:40:09] 286
+[2021-08-12 18:40:09] 286
+[2021-08-12 18:40:09] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:40:09] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:40:09] 286
+[2021-08-12 18:40:09] 286
+[2021-08-12 18:40:09] 286
+[2021-08-12 18:40:09] Successfully made a account.
+[2021-08-12 18:40:09] Successfully made a account.
+[2021-08-12 18:40:10] Successfully made a account.
+[2021-08-12 18:40:10] Successfully made a account.
+[2021-08-12 18:40:10] Successfully made a account.
+[2021-08-12 18:40:12] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:40:12] 286
+[2021-08-12 18:40:13] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:40:13] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:40:13] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:40:13] 286
+[2021-08-12 18:40:13] 286
+[2021-08-12 18:40:14] 286
+[2021-08-12 18:40:14] Successfully made a account.
+[2021-08-12 18:40:14] Fail
+[2021-08-12 18:40:14] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:40:14] 286
+[2021-08-12 18:40:14] Successfully made a account.
+[2021-08-12 18:40:15] Successfully made a account.
+[2021-08-12 18:40:15] Successfully made a account.
+[2021-08-12 18:40:15] Successfully made a account.
+[2021-08-12 18:40:15] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:40:15] 286
+[2021-08-12 18:40:16] Successfully made a account.
+[2021-08-12 18:40:17] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:40:17] 286
+[2021-08-12 18:40:18] Successfully made a account.
+[2021-08-12 18:40:19] Fail
+[2021-08-12 18:40:25] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:40:25] 286
+[2021-08-12 18:40:26] Successfully made a account.
+[2021-08-12 18:40:27] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:40:27] 286
+[2021-08-12 18:40:27] Successfully made a account.
+[2021-08-12 18:40:36] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:40:36] 286
+[2021-08-12 18:40:37] Successfully made a account.
+[2021-08-12 18:40:38] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:40:38] 286
+[2021-08-12 18:40:38] Successfully made a account.
+[2021-08-12 18:40:41] Fail
+[2021-08-12 18:40:48] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:40:48] 286
+[2021-08-12 18:40:49] Successfully made a account.
+[2021-08-12 18:40:49] Fail
+[2021-08-12 18:40:51] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:40:51] 286
+[2021-08-12 18:40:52] Successfully made a account.
+[2021-08-12 18:40:52] Fail
+[2021-08-12 18:40:53] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:40:53] 286
+[2021-08-12 18:40:53] Successfully made a account.
+[2021-08-12 18:40:55] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:40:55] 286
+[2021-08-12 18:40:56] Successfully made a account.
+[2021-08-12 18:41:14] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:41:14] 286
+[2021-08-12 18:41:15] Successfully made a account.
+[2021-08-12 18:41:18] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:41:18] 286
+[2021-08-12 18:41:19] Successfully made a account.
+[2021-08-12 18:41:29] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:41:29] 286
+[2021-08-12 18:41:30] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:41:30] 286
+[2021-08-12 18:41:30] Successfully made a account.
+[2021-08-12 18:41:31] Successfully made a account.
+[2021-08-12 18:41:32] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:41:32] 286
+[2021-08-12 18:41:32] Successfully made a account.
+[2021-08-12 18:41:35] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:41:35] 286
+[2021-08-12 18:41:36] Successfully made a account.
+[2021-08-12 18:41:37] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:41:37] 286
+[2021-08-12 18:41:38] Successfully made a account.
+[2021-08-12 18:41:42] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:41:42] 286
+[2021-08-12 18:41:43] Successfully made a account.
+[2021-08-12 18:41:46] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:41:46] 286
+[2021-08-12 18:41:47] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:41:47] 286
+[2021-08-12 18:41:47] Successfully made a account.
+[2021-08-12 18:41:48] Successfully made a account.
+[2021-08-12 18:41:58] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:41:58] 286
+[2021-08-12 18:41:59] Successfully made a account.
+[2021-08-12 18:42:01] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:42:01] 286
+[2021-08-12 18:42:03] Successfully made a account.
+[2021-08-12 18:42:03] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:42:03] 286
+[2021-08-12 18:42:04] Successfully made a account.
+[2021-08-12 18:42:06] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:42:06] 286
+[2021-08-12 18:42:07] Successfully made a account.
+[2021-08-12 18:42:11] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:42:11] 286
+[2021-08-12 18:42:12] Successfully made a account.
+[2021-08-12 18:42:17] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:42:17] 286
+[2021-08-12 18:42:18] Successfully made a account.
+[2021-08-12 18:42:31] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:42:31] 286
+[2021-08-12 18:42:31] Successfully made a account.
+[2021-08-12 18:42:33] Fail
+[2021-08-12 18:42:48] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:42:48] 286
+[2021-08-12 18:42:48] Successfully made a account.
+[2021-08-12 18:43:05] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:43:05] 286
+[2021-08-12 18:43:05] Successfully made a account.
+[2021-08-12 18:43:06] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:43:06] 286
+[2021-08-12 18:43:07] Successfully made a account.
+[2021-08-12 18:43:15] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:43:15] 286
+[2021-08-12 18:43:16] Successfully made a account.
+[2021-08-12 18:43:19] Fail
+[2021-08-12 18:43:26] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:43:26] 286
+[2021-08-12 18:43:26] Successfully made a account.
+[2021-08-12 18:43:29] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:43:29] 286
+[2021-08-12 18:43:29] Successfully made a account.
+[2021-08-12 18:43:31] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:43:31] 286
+[2021-08-12 18:43:32] Successfully made a account.
+[2021-08-12 18:43:35] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:43:35] 286
+[2021-08-12 18:43:35] Successfully made a account.
+[2021-08-12 18:44:13] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:44:13] 286
+[2021-08-12 18:44:13] Successfully made a account.
+[2021-08-12 18:44:20] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:44:20] 286
+[2021-08-12 18:44:21] Successfully made a account.
+[2021-08-12 18:44:33] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:44:33] 286
+[2021-08-12 18:44:33] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:44:33] 286
+[2021-08-12 18:44:33] Successfully made a account.
+[2021-08-12 18:44:34] Successfully made a account.
+[2021-08-12 18:44:39] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:44:39] 286
+[2021-08-12 18:44:40] Successfully made a account.
+[2021-08-12 18:44:45] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:44:45] 286
+[2021-08-12 18:44:45] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:44:45] 286
+[2021-08-12 18:44:45] Successfully made a account.
+[2021-08-12 18:44:45] Successfully made a account.
+[2021-08-12 18:44:55] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:44:55] 286
+[2021-08-12 18:44:57] Successfully made a account.
+[2021-08-12 18:45:00] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:45:00] 286
+[2021-08-12 18:45:01] Successfully made a account.
+[2021-08-12 18:45:03] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:45:03] 286
+[2021-08-12 18:45:04] Successfully made a account.
+[2021-08-12 18:45:10] Fail
+[2021-08-12 18:45:10] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:45:10] 286
+[2021-08-12 18:45:11] Successfully made a account.
+[2021-08-12 18:45:20] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:45:20] 286
+[2021-08-12 18:45:21] Successfully made a account.
+[2021-08-12 18:45:23] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:45:23] 286
+[2021-08-12 18:45:24] Successfully made a account.
+[2021-08-12 18:45:27] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:45:27] 286
+[2021-08-12 18:45:28] Successfully made a account.
+[2021-08-12 18:45:29] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:45:29] 286
+[2021-08-12 18:45:30] Successfully made a account.
+[2021-08-12 18:45:50] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:45:50] 286
+[2021-08-12 18:45:51] Successfully made a account.
+[2021-08-12 18:45:53] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:45:53] 286
+[2021-08-12 18:45:53] Successfully made a account.
+[2021-08-12 18:45:55] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:45:55] 286
+[2021-08-12 18:45:56] Successfully made a account.
+[2021-08-12 18:45:58] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:45:59] 286
+[2021-08-12 18:45:59] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:45:59] 286
+[2021-08-12 18:46:00] Successfully made a account.
+[2021-08-12 18:46:00] Successfully made a account.
+[2021-08-12 18:46:13] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:46:13] 286
+[2021-08-12 18:46:14] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:46:14] 286
+[2021-08-12 18:46:14] Successfully made a account.
+[2021-08-12 18:46:15] Successfully made a account.
+[2021-08-12 18:46:19] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:46:19] 286
+[2021-08-12 18:46:20] Successfully made a account.
+[2021-08-12 18:46:24] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:46:24] 286
+[2021-08-12 18:46:24] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:46:25] 286
+[2021-08-12 18:46:25] Successfully made a account.
+[2021-08-12 18:46:26] Successfully made a account.
+[2021-08-12 18:46:27] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:46:28] 286
+[2021-08-12 18:46:29] Successfully made a account.
+[2021-08-12 18:46:30] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:46:30] 286
+[2021-08-12 18:46:32] Successfully made a account.
+[2021-08-12 18:46:34] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:46:34] 286
+[2021-08-12 18:46:34] Successfully made a account.
+[2021-08-12 18:46:38] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:46:38] 286
+[2021-08-12 18:46:39] Successfully made a account.
+[2021-08-12 18:46:39] Fail
+[2021-08-12 18:46:48] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:46:48] 286
+[2021-08-12 18:46:50] Successfully made a account.
+[2021-08-12 18:46:55] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:46:55] 286
+[2021-08-12 18:46:56] Successfully made a account.
+[2021-08-12 18:46:56] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:46:56] 286
+[2021-08-12 18:46:56] Fail
+[2021-08-12 18:46:56] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:46:57] 286
+[2021-08-12 18:46:57] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:46:57] Successfully made a account.
+[2021-08-12 18:46:57] 286
+[2021-08-12 18:46:58] Successfully made a account.
+[2021-08-12 18:46:58] Successfully made a account.
+[2021-08-12 18:46:58] Fail
+[2021-08-12 18:47:01] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:47:01] 286
+[2021-08-12 18:47:02] Successfully made a account.
+[2021-08-12 18:47:05] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:47:05] 286
+[2021-08-12 18:47:06] Successfully made a account.
+[2021-08-12 18:47:08] Fail
+[2021-08-12 18:47:22] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:47:23] 286
+[2021-08-12 18:47:24] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:47:24] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:47:24] 286
+[2021-08-12 18:47:24] 286
+[2021-08-12 18:47:24] Successfully made a account.
+[2021-08-12 18:47:25] Successfully made a account.
+[2021-08-12 18:47:25] Successfully made a account.
+[2021-08-12 18:47:26] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:47:26] 286
+[2021-08-12 18:47:26] Successfully made a account.
+[2021-08-12 18:47:28] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:47:28] 286
+[2021-08-12 18:47:30] Successfully made a account.
+[2021-08-12 18:47:36] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:47:36] 286
+[2021-08-12 18:47:36] Successfully made a account.
+[2021-08-12 18:47:39] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:47:39] 286
+[2021-08-12 18:47:40] Successfully made a account.
+[2021-08-12 18:47:44] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:47:44] 286
+[2021-08-12 18:47:45] Successfully made a account.
+[2021-08-12 18:47:46] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:47:47] 286
+[2021-08-12 18:47:47] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:47:47] 286
+[2021-08-12 18:47:47] Successfully made a account.
+[2021-08-12 18:47:48] Successfully made a account.
+[2021-08-12 18:47:54] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:47:54] 286
+[2021-08-12 18:47:55] Successfully made a account.
+[2021-08-12 18:48:04] Fail
+[2021-08-12 18:48:08] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:48:08] 286
+[2021-08-12 18:48:10] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:48:10] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:48:10] 286
+[2021-08-12 18:48:10] 286
+[2021-08-12 18:48:10] Successfully made a account.
+[2021-08-12 18:48:11] Successfully made a account.
+[2021-08-12 18:48:11] Successfully made a account.
+[2021-08-12 18:48:14] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:48:14] 286
+[2021-08-12 18:48:15] Successfully made a account.
+[2021-08-12 18:48:16] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:48:16] 286
+[2021-08-12 18:48:17] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:48:17] 286
+[2021-08-12 18:48:17] Successfully made a account.
+[2021-08-12 18:48:17] Successfully made a account.
+[2021-08-12 18:48:28] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:48:28] 286
+[2021-08-12 18:48:29] Fail
+[2021-08-12 18:48:29] Successfully made a account.
+[2021-08-12 18:48:29] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:48:29] 286
+[2021-08-12 18:48:30] Successfully made a account.
+[2021-08-12 18:48:35] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:48:35] 286
+[2021-08-12 18:48:36] Successfully made a account.
+[2021-08-12 18:48:36] Fail
+[2021-08-12 18:48:42] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:48:42] 286
+[2021-08-12 18:48:43] Successfully made a account.
+[2021-08-12 18:48:44] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:48:44] 286
+[2021-08-12 18:48:44] Successfully made a account.
+[2021-08-12 18:48:48] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:48:48] 286
+[2021-08-12 18:48:50] Successfully made a account.
+[2021-08-12 18:48:53] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:48:53] 286
+[2021-08-12 18:48:55] Successfully made a account.
+[2021-08-12 18:48:55] Fail
+[2021-08-12 18:49:06] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:49:06] 286
+[2021-08-12 18:49:06] Fail
+[2021-08-12 18:49:07] Successfully made a account.
+[2021-08-12 18:49:10] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:49:10] 286
+[2021-08-12 18:49:10] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:49:10] 286
+[2021-08-12 18:49:11] Successfully made a account.
+[2021-08-12 18:49:11] Successfully made a account.
+[2021-08-12 18:49:13] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:49:13] 286
+[2021-08-12 18:49:14] Successfully made a account.
+[2021-08-12 18:49:15] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:49:15] 286
+[2021-08-12 18:49:16] Successfully made a account.
+[2021-08-12 18:49:19] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:49:19] 286
+[2021-08-12 18:49:19] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:49:19] 286
+[2021-08-12 18:49:19] Successfully made a account.
+[2021-08-12 18:49:19] Successfully made a account.
+[2021-08-12 18:49:29] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:49:29] 286
+[2021-08-12 18:49:30] Successfully made a account.
+[2021-08-12 18:49:31] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:49:31] 286
+[2021-08-12 18:49:33] Successfully made a account.
+[2021-08-12 18:49:35] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:49:35] 286
+[2021-08-12 18:49:36] Successfully made a account.
+[2021-08-12 18:49:36] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:49:36] 286
+[2021-08-12 18:49:37] Successfully made a account.
+[2021-08-12 18:49:41] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:49:41] 286
+[2021-08-12 18:49:42] Successfully made a account.
+[2021-08-12 18:49:43] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:49:43] 286
+[2021-08-12 18:49:43] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:49:43] 286
+[2021-08-12 18:49:44] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:49:44] 286
+[2021-08-12 18:49:44] Successfully made a account.
+[2021-08-12 18:49:45] Successfully made a account.
+[2021-08-12 18:49:45] Successfully made a account.
+[2021-08-12 18:49:53] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:49:53] 286
+[2021-08-12 18:49:54] Successfully made a account.
+[2021-08-12 18:50:03] Fail
+[2021-08-12 18:50:03] Fail
+[2021-08-12 18:50:28] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:50:28] 286
+[2021-08-12 18:50:28] Successfully made a account.
+[2021-08-12 18:50:32] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:50:32] 286
+[2021-08-12 18:50:33] Successfully made a account.
+[2021-08-12 18:50:34] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:50:34] 286
+[2021-08-12 18:50:35] Successfully made a account.
+[2021-08-12 18:50:42] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:50:42] 286
+[2021-08-12 18:50:42] Successfully made a account.
+[2021-08-12 18:50:44] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:50:44] 286
+[2021-08-12 18:50:45] Successfully made a account.
+[2021-08-12 18:50:47] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:50:47] 286
+[2021-08-12 18:50:48] Successfully made a account.
+[2021-08-12 18:50:59] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:50:59] 286
+[2021-08-12 18:51:00] Successfully made a account.
+[2021-08-12 18:51:01] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:51:01] 286
+[2021-08-12 18:51:02] Successfully made a account.
+[2021-08-12 18:51:03] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:51:03] 286
+[2021-08-12 18:51:04] Successfully made a account.
+[2021-08-12 18:51:06] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:51:06] 286
+[2021-08-12 18:51:06] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:51:06] 286
+[2021-08-12 18:51:07] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:51:07] 286
+[2021-08-12 18:51:08] Successfully made a account.
+[2021-08-12 18:51:08] Successfully made a account.
+[2021-08-12 18:51:08] Successfully made a account.
+[2021-08-12 18:51:08] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:51:08] 286
+[2021-08-12 18:51:09] Fail
+[2021-08-12 18:51:09] Successfully made a account.
+[2021-08-12 18:51:19] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:51:19] 286
+[2021-08-12 18:51:19] Successfully made a account.
+[2021-08-12 18:51:23] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:51:23] 286
+[2021-08-12 18:51:23] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:51:23] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:51:23] 286
+[2021-08-12 18:51:23] 286
+[2021-08-12 18:51:24] Successfully made a account.
+[2021-08-12 18:51:24] Successfully made a account.
+[2021-08-12 18:51:24] Successfully made a account.
+[2021-08-12 18:51:24] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:51:24] 286
+[2021-08-12 18:51:25] Successfully made a account.
+[2021-08-12 18:51:27] Fail
+[2021-08-12 18:51:28] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:51:28] 286
+[2021-08-12 18:51:28] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:51:28] 286
+[2021-08-12 18:51:28] Successfully made a account.
+[2021-08-12 18:51:28] Successfully made a account.
+[2021-08-12 18:51:33] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:51:33] 286
+[2021-08-12 18:51:34] Successfully made a account.
+[2021-08-12 18:51:37] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:51:37] 286
+[2021-08-12 18:51:38] Successfully made a account.
+[2021-08-12 18:51:47] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:51:47] 286
+[2021-08-12 18:51:47] Successfully made a account.
+[2021-08-12 18:51:52] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:51:52] 286
+[2021-08-12 18:51:53] Successfully made a account.
+[2021-08-12 18:52:04] Fail
+[2021-08-12 18:52:04] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:52:04] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:52:04] 286
+[2021-08-12 18:52:04] 286
+[2021-08-12 18:52:05] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:52:05] 286
+[2021-08-12 18:52:05] Successfully made a account.
+[2021-08-12 18:52:05] Successfully made a account.
+[2021-08-12 18:52:05] Successfully made a account.
+[2021-08-12 18:52:05] Fail
+[2021-08-12 18:52:06] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:52:06] 286
+[2021-08-12 18:52:07] Successfully made a account.
+[2021-08-12 18:52:08] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:52:08] 286
+[2021-08-12 18:52:08] Successfully made a account.
+[2021-08-12 18:52:10] Fail
+[2021-08-12 18:52:15] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:52:15] 286
+[2021-08-12 18:52:15] Successfully made a account.
+[2021-08-12 18:52:18] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:52:18] 286
+[2021-08-12 18:52:19] Successfully made a account.
+[2021-08-12 18:52:20] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:52:20] 286
+[2021-08-12 18:52:20] Successfully made a account.
+[2021-08-12 18:52:24] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:52:24] 286
+[2021-08-12 18:52:24] Successfully made a account.
+[2021-08-12 18:52:26] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:52:27] 286
+[2021-08-12 18:52:28] Successfully made a account.
+[2021-08-12 18:52:34] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:52:35] Fail
+[2021-08-12 18:52:35] 286
+[2021-08-12 18:52:36] Successfully made a account.
+[2021-08-12 18:52:36] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:52:36] 286
+[2021-08-12 18:52:37] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:52:37] 286
+[2021-08-12 18:52:37] Successfully made a account.
+[2021-08-12 18:52:38] Successfully made a account.
+[2021-08-12 18:52:39] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:52:39] 286
+[2021-08-12 18:52:40] Successfully made a account.
+[2021-08-12 18:52:40] Fail
+[2021-08-12 18:52:41] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:52:41] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:52:41] 286
+[2021-08-12 18:52:41] 286
+[2021-08-12 18:52:41] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:52:41] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:52:41] 286
+[2021-08-12 18:52:41] 286
+[2021-08-12 18:52:42] Successfully made a account.
+[2021-08-12 18:52:42] Successfully made a account.
+[2021-08-12 18:52:42] Successfully made a account.
+[2021-08-12 18:52:42] Successfully made a account.
+[2021-08-12 18:52:43] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:52:43] 286
+[2021-08-12 18:52:44] Successfully made a account.
+[2021-08-12 18:52:45] Fail
+[2021-08-12 18:52:47] 'charmap' codec can't encode character '\ufeff' in position 44: character maps to <undefined>
+[2021-08-12 18:52:47] 286
+[2021-08-12 18:52:48] Successfully made a account.
+[2021-08-12 18:52:49] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:52:49] 286
+[2021-08-12 18:52:50] Successfully made a account.
+[2021-08-12 18:52:50] Fail
+[2021-08-12 18:52:54] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:52:54] 286
+[2021-08-12 18:52:55] Successfully made a account.
+[2021-08-12 18:53:03] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:53:03] 286
+[2021-08-12 18:53:04] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:53:04] Successfully made a account.
+[2021-08-12 18:53:04] 286
+[2021-08-12 18:53:05] Successfully made a account.
+[2021-08-12 18:53:07] Fail
+[2021-08-12 18:53:07] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:53:07] 286
+[2021-08-12 18:53:08] Successfully made a account.
+[2021-08-12 18:53:10] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:53:10] 286
+[2021-08-12 18:53:10] Successfully made a account.
+[2021-08-12 18:53:10] Fail
+[2021-08-12 18:53:21] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:53:21] 286
+[2021-08-12 18:53:22] Successfully made a account.
+[2021-08-12 18:53:24] 'charmap' codec can't encode character '\ufeff' in position 40: character maps to <undefined>
+[2021-08-12 18:53:24] 286
+[2021-08-12 18:53:24] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:53:24] 286
+[2021-08-12 18:53:24] Successfully made a account.
+[2021-08-12 18:53:25] Successfully made a account.
+[2021-08-12 18:53:27] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:53:27] 286
+[2021-08-12 18:53:28] Successfully made a account.
+[2021-08-12 18:53:33] Fail
+[2021-08-12 18:53:33] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:53:33] 286
+[2021-08-12 18:53:35] Successfully made a account.
+[2021-08-12 18:53:44] 'charmap' codec can't encode character '\ufeff' in position 43: character maps to <undefined>
+[2021-08-12 18:53:44] 286
+[2021-08-12 18:53:45] Successfully made a account.
+[2021-08-12 18:53:47] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:53:48] 'charmap' codec can't encode character '\ufeff' in position 41: character maps to <undefined>
+[2021-08-12 18:53:48] 286
+[2021-08-12 18:53:48] 286
+[2021-08-12 18:53:48] 'charmap' codec can't encode character '\ufeff' in position 39: character maps to <undefined>
+[2021-08-12 18:53:48] 286
+[2021-08-12 18:53:48] Successfully made a account.
+[2021-08-12 18:53:48] Successfully made a account.
+[2021-08-12 18:53:49] Successfully made a account.
+[2021-08-12 18:53:55] Fail
+[2021-08-12 18:54:01] Fail
+[2021-08-12 18:54:08] 'charmap' codec can't encode character '\ufeff' in position 42: character maps to <undefined>
+[2021-08-12 18:54:08] 286
+[2021-08-12 18:54:08] Successfully made a account.
+[2021-08-12 18:54:21] Fail
+[2021-08-12 18:55:13] Fail
+[2021-08-12 18:55:52] Fail
+[2021-08-12 18:56:10] Fail
+[2021-08-12 18:56:17] Fail
+[2021-08-12 18:56:31] Fail
+[2021-08-12 18:56:48] Fail
+[2021-08-12 18:59:59] Fail
+[2021-08-12 19:00:33] Fail
+[2021-08-12 19:04:36] Fail
+[2021-08-12 19:55:16] Configuration loaded! Starting workers!
+[2021-08-12 19:55:18] Captcha Balance: 0.0
+[2021-08-12 19:55:19] Starting 70 threads
+[2021-08-12 19:56:39] Configuration loaded! Starting workers!
+[2021-08-12 19:59:21] Configuration loaded! Starting workers!
+[2021-08-12 20:01:43] Configuration loaded! Starting workers!
+[2021-08-29 17:44:40] Configuration loaded! Starting workers!
+[2021-08-29 17:44:41] [HTTP_ERROR:-1]Sometimes can be happen if capmonster servers there is too much intensity
+[2021-08-29 17:44:41] 366
+[2021-08-29 17:44:42] [HTTP_ERROR:-1]Sometimes can be happen if capmonster servers there is too much intensity
+[2021-08-29 17:44:42] 366
+[2021-08-29 17:44:43] [HTTP_ERROR:-1]Sometimes can be happen if capmonster servers there is too much intensity
+[2021-08-29 17:44:43] 366
+[2021-08-29 17:45:04] HTTPConnectionPool(host='api.capmonster.cloud', port=80): Max retries exceeded with url: /getBalance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03425880>: Failed to establish a new connection: [WinError 10060] Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan\r\nbağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı'))
+[2021-08-29 17:45:04] 366
+[2021-08-29 17:45:25] HTTPConnectionPool(host='api.capmonster.cloud', port=80): Max retries exceeded with url: /getBalance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03425D90>: Failed to establish a new connection: [WinError 10060] Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan\r\nbağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı'))
+[2021-08-29 17:45:25] 366
+[2021-08-29 17:45:46] HTTPConnectionPool(host='api.capmonster.cloud', port=80): Max retries exceeded with url: /getBalance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x034312E0>: Failed to establish a new connection: [WinError 10060] Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan\r\nbağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı'))
+[2021-08-29 17:45:46] 366
+[2021-08-29 17:46:07] HTTPConnectionPool(host='api.capmonster.cloud', port=80): Max retries exceeded with url: /getBalance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x034317F0>: Failed to establish a new connection: [WinError 10060] Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan\r\nbağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı'))
+[2021-08-29 17:46:07] 366
+[2021-08-29 17:46:28] HTTPConnectionPool(host='api.capmonster.cloud', port=80): Max retries exceeded with url: /getBalance (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x03431D00>: Failed to establish a new connection: [WinError 10060] Bağlanılan uygun olarak belli bir süre içinde yanıt vermediğinden veya kurulan\r\nbağlantı bağlanılan ana bilgisayar yanıt vermediğinden bir bağlantı kurulamadı'))
+[2021-08-29 17:46:28] 366
